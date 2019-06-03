@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2019. Parrot Faurecia Automotive S.A.S. All rights reserved.
+  -->
+
+<resources>
+
+    <!-- Ambient widget properties -->
+    <dimen name="height_nav_widget">180dp</dimen>
+    <dimen name="width_nav_widget">180dp</dimen>
+</resources>

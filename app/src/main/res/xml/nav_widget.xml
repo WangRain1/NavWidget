@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2019. Parrot Faurecia Automotive S.A.S. All rights reserved.
+  -->
+
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/nav_widget_item"
+    android:minHeight="@dimen/height_nav_widget"
+    android:minWidth="@dimen/width_nav_widget"
+    android:previewImage="@drawable/nav_preview"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen" />
